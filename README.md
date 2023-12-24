@@ -61,13 +61,7 @@ To use the chatbot:
    - `app.ipynb`
 3. Interact with the chatbot through the Flask web interface.
 
-## References
 
-Key references and studies that supported this project are available in the dissertation report and PowerPoint presentation.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 
